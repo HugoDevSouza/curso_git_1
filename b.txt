@@ -9,3 +9,5 @@ Testando enviando por checkout
 7
 8
 9
+testando a opção de fetch
+123454
