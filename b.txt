@@ -1,1 +1,8 @@
 Enviando arquivo do clone
+Testando o repos
+testando novas funcionalidades no git
+testando visualizar o checkout 
+funcionalidades nova 1
+2
+3
+4
