@@ -1,0 +1,3 @@
+[submodule "submodolos"]
+	path = submodolos
+	url = https://github.com/HugoDevSouza/submodolos.git
